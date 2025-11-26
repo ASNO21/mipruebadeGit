@@ -12,6 +12,6 @@ Proyecto de Apirest para divulgacion educativa
 - Patron MVC
 
 ## 🛠️ Tecnologías
-**Backend:** Node.js, Express, Mysql  
-**Frontend:** React, Tailwind CSS  
+**Backend:** Node.js, Express, MySQL  
+**Frontend:** Bootstrap, Tailwind CSS  
 **DevOps:** Docker, GitHub Actions
