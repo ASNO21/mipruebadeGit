@@ -1,0 +1,17 @@
+# Proyecto GIT
+
+![Status](https:render/pruebaGit)
+
+## 🎯 Descripción Rápida
+Proyecto de Apirest para divulgacion educativa
+
+## ✨ Características Principales
+- 🔐 Autenticación con JWT
+- 📱 Responsive design
+- 🚀 Alta performance
+- Patron MVC
+
+## 🛠️ Tecnologías
+**Backend:** Node.js, Express, Mysql  
+**Frontend:** React, Tailwind CSS  
+**DevOps:** Docker, GitHub Actions
